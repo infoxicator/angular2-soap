@@ -1,8 +1,8 @@
 # Angular2-soap
 
-Angular2+ Service of the [Javascript SOAP Client]
+Angular2+ Service of the <a href ="http://javascriptsoapclient.codeplex.com/">Javascript SOAP Client</a>
 
-Upgrade to version 2+ from the original angular-soap for Angular v1 created by [Andrew Mcgivery]
+Upgrade to version 2+ from the original angular-soap for Angular v1 created by <a href="https://github.com/andrewmcgivery/angular-soap">Andrew Mcgivery</a>
 
 # Usage
 
@@ -78,7 +78,3 @@ License
 ----
 
 MIT
-
-
-   [Javascript SOAP Client]: <a href ="http://javascriptsoapclient.codeplex.com/">
-   [Andrew Mcgivery]: <https://github.com/andrewmcgivery/angular-soap>
