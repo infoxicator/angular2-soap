@@ -8,12 +8,11 @@ export class SoapService {
 public soapParams:any;
 public soapClient:any;
 
-  constructor() {
-    this.soapParams = new SOAPClient.SOAPClientParameters;
-    this.soapClient = SOAPClient.SOAPClient; 
-  }
+  constructor() {}
 
    post(url, action, params){
+    this.soapParams = new SOAPClient.SOAPClientParameters;
+    this.soapClient = SOAPClient.SOAPClient; 
      return new Promise((resolve, reject) => {			
 			//Create SOAPClientParameters
 			for(var param in params){
